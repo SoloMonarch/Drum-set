@@ -79,3 +79,15 @@ background-image: url("images/crash.png");
   margin: 10px;
   background-color: white;
 }
+
+.coline{
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+.pradeep{
+  float: right;
+  width: 200px;
+  height: 200px;
+}
